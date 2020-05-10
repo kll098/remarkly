@@ -1,57 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://remarkly.be/</loc>
-  <lastmod>2020-04-11T16:22:32+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://remarkly.be/</loc>
+<lastmod>2020-05-10T15:26:40+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://remarkly.be/privacypolicycookie</loc>
-  <lastmod>2020-04-11T16:22:32+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://remarkly.be/privacypolicycookie</loc>
+<lastmod>2020-05-10T15:26:40+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://remarkly.be/index</loc>
-  <lastmod>2020-04-11T16:22:32+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://remarkly.be/hondenfotografie</loc>
+<lastmod>2020-05-10T15:26:40+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://remarkly.be/hondenfotografie</loc>
-  <lastmod>2020-04-11T16:22:32+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://remarkly.be/portfolio</loc>
+<lastmod>2020-05-10T15:26:40+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://remarkly.be/contact</loc>
-  <lastmod>2020-04-11T16:22:32+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://remarkly.be/contact</loc>
+<lastmod>2020-05-10T15:26:40+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://remarkly.be/blog/fototentoonstelling</loc>
-  <lastmod>2020-04-11T16:22:32+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://remarkly.be/blog/fototentoonstelling</loc>
+<lastmod>2020-05-10T15:26:40+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://remarkly.be/blog/fotomateriaal</loc>
-  <lastmod>2020-04-11T16:22:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://remarkly.be/blog/puppyshoot.html</loc>
-  <lastmod>2020-04-11T16:22:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://remarkly.be/hondenfotografie.html</loc>
-  <lastmod>2020-04-11T16:22:32+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://remarkly.be/blog/fotomateriaal</loc>
+<lastmod>2020-05-10T15:26:40+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 
+<url>
+<loc>https://remarkly.be/blog/puppyshoot</loc>
+<lastmod>2020-05-10T15:26:40+00:00</lastmod>
+<priority>0.64</priority>
+</url>
 
 </urlset>
